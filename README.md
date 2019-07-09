@@ -45,7 +45,7 @@ See the nwas_alerts_custom_package.yaml file for all the sections required in th
 
 ## Notes:
 
-I created two announcements rthat targets different announcing systems so that a minor event won't wake you up in the middle of the night.
+I created two announcements that target different announcing systems so that a minor event won't wake you up in the middle of the night.
 
 You’ll notice I repeat the announcement twice in case the first announcement doesn’t wake you up.
 

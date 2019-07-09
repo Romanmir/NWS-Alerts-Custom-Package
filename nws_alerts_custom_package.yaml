@@ -52,12 +52,6 @@ sensor:
             off
           {% endif %}
           
-######################## INPUT BOOLEAN  #########################################
-
-input_boolean:
-  bool_9:
-    name: Dismiss NWS Persistent Notification
-    
 ########################  AUTOMATION  ###########################################
 
 automation:

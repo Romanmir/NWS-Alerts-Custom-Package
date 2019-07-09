@@ -41,7 +41,7 @@ Then when you have your ID's, enter them into the configuration.
 
 If you use the optional "name:" configuration entry then you will need to adjust your sensor entity_id in the automations and scripts to reflect the new sensor information.
 
-See the nwas_alerts_custom_package.yaml file for all the sections required in the configuration.yaml or, alternatively, if you use packages in Home Assistant you can copy the entire file into your packages location and use it as-is.
+See the nws_alerts_custom_package.yaml file for all the sections required in the configuration.yaml or, alternatively, if you use packages in Home Assistant you can copy the entire file into your packages location and use it as-is.
 
 ## Notes:
 

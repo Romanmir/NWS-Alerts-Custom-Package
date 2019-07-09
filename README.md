@@ -1,4 +1,4 @@
-# NWS Alerts Custom Package
+# NWS Alerts Using a Custom Component
 ## This package contains the code required to provide severe weather alerts from the US National Weather Service
 
 This will allow several functions including a persistent pop-up notification on your HA front end, a notification to whichever notify service you use (I’m using Pushbullet in this example), and, if you use another custom component (found here: https://community.home-assistant.io/t/echo-devices-alexa-as-media-player-testers-needed/58639), it will also trigger an announcement to all of your Echo devices.
